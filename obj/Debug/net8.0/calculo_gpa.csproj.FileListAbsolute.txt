@@ -1,0 +1,14 @@
+C:\Users\Lucas\Downloads\projetos_back\calculo_gpa\bin\Debug\net8.0\calculo_gpa.exe
+C:\Users\Lucas\Downloads\projetos_back\calculo_gpa\bin\Debug\net8.0\calculo_gpa.deps.json
+C:\Users\Lucas\Downloads\projetos_back\calculo_gpa\bin\Debug\net8.0\calculo_gpa.runtimeconfig.json
+C:\Users\Lucas\Downloads\projetos_back\calculo_gpa\bin\Debug\net8.0\calculo_gpa.dll
+C:\Users\Lucas\Downloads\projetos_back\calculo_gpa\bin\Debug\net8.0\calculo_gpa.pdb
+C:\Users\Lucas\Downloads\projetos_back\calculo_gpa\obj\Debug\net8.0\calculo_gpa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\projetos_back\calculo_gpa\obj\Debug\net8.0\calculo_gpa.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\projetos_back\calculo_gpa\obj\Debug\net8.0\calculo_gpa.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\projetos_back\calculo_gpa\obj\Debug\net8.0\calculo_gpa.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\projetos_back\calculo_gpa\obj\Debug\net8.0\calculo_gpa.dll
+C:\Users\Lucas\Downloads\projetos_back\calculo_gpa\obj\Debug\net8.0\refint\calculo_gpa.dll
+C:\Users\Lucas\Downloads\projetos_back\calculo_gpa\obj\Debug\net8.0\calculo_gpa.pdb
+C:\Users\Lucas\Downloads\projetos_back\calculo_gpa\obj\Debug\net8.0\calculo_gpa.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\projetos_back\calculo_gpa\obj\Debug\net8.0\ref\calculo_gpa.dll
